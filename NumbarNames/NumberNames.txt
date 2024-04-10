@@ -1,0 +1,17 @@
+C:\Users\Devibalan\Desktop\java\NumbarNames>java NumberNames
+Enter the number
+3257
+Sample Output:
+three two five seven
+
+C:\Users\Devibalan\Desktop\java\NumbarNames>java NumberNames
+Enter the number
+5708
+Sample Output:
+five seven zero eight
+
+C:\Users\Devibalan\Desktop\java\NumbarNames>java NumberNames
+Enter the number
+2358
+Sample Output:
+two three five eight
